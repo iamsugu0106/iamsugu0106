@@ -29,6 +29,8 @@
 
 <div align="center">
 
+<img src="./assets/tech-stack-icon.png" width="30" height="30" /> <!-- 왼쪽 아이콘 -->
+
 ### Backend & Database
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white)
@@ -47,6 +49,8 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
+
+<img src="./assets/tech-stack-icon.png" width="30" height="30" /> <!-- 오른쪽 아이콘 -->
 
 </div>
 
