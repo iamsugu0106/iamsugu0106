@@ -45,12 +45,12 @@ Here are some ideas to get you started:
     <div align= "center">  </div> 
     </div>
     <div style="text-align: left;"> 
-        <img width="16" height="16" alt="free-icon-coding-17359748 (3)" src="https://github.com/user-attachments/assets/63939b3f-882e-4499-8c35-bbf866ca0632" />
-        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 
-                
-        🏅 Stats 
-        </h2> 
+         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 
+        <img width="16" height="16" alt="free-icon-coding-17359748 (3)" src="https://github.com/user-attachments/assets/63939b3f-882e-4499-8c35-bbf866ca0632" />                
+        Stats 
+       
         <img width="24" height="24" alt="free-icon-coding-17359748 (2)" src="https://github.com/user-attachments/assets/c82a125e-4e9a-4e37-b738-873d6b4ba02f" />
+        </h2> 
         <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=iamsugu0106&bg_color=180,00000000,&title_color=000000&text_color=000000"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsugu0106&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000"
            /> </div> 
