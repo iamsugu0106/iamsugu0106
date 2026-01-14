@@ -46,7 +46,7 @@ Here are some ideas to get you started:
     </div>
     <div style="text-align: left;"> 
          <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 
-        <img width="16" height="16" alt="free-icon-coding-17359748 (3)" src="https://github.com/user-attachments/assets/63939b3f-882e-4499-8c35-bbf866ca0632" />                
+        <img width="24" height="24" alt="free-icon-coding-17359748 (3)" src="https://github.com/user-attachments/assets/63939b3f-882e-4499-8c35-bbf866ca0632" />                
         Stats 
        
         <img width="24" height="24" alt="free-icon-coding-17359748 (2)" src="https://github.com/user-attachments/assets/c82a125e-4e9a-4e37-b738-873d6b4ba02f" />
