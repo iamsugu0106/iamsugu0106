@@ -45,7 +45,11 @@ Here are some ideas to get you started:
     <div align= "center">  </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=iamsugu0106&bg_color=180,00000000,&title_color=000000&text_color=000000"
+        <img width="128" height="128" alt="free-icon-coding-17359748 (1)" src="https://github.com/user-attachments/assets/33fa47a2-0bb6-42d5-bd71-9ce05c65bdc4" />
+         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 
+        🏅 Stats </h2> 
+        <img width="128" height="128" alt="free-icon-coding-17359748 (1)" src="https://github.com/user-attachments/assets/33fa47a2-0bb6-42d5-bd71-9ce05c65bdc4" />
+        <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=iamsugu0106&bg_color=180,00000000,&title_color=000000&text_color=000000"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsugu0106&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000"
            /> </div> 
     </div>
